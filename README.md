@@ -6,21 +6,21 @@ Este repositorio contiene dos ejercicios de análisis de datos utilizando Python
 
 ## 1️⃣ [Ejercicio 1] LunaOuterelo.ipynb - 🎵 Análisis de una Lista de Música
 
-##🎯 Descripción:
+## 🎯 Descripción:
 Este ejercicio trata sobre la exploración y el análisis de una lista de canciones. Utilizando Pandas y NumPy, se realizan diversas operaciones de limpieza, agrupación y agregación de datos para obtener insights sobre la música y los artistas en la lista.
 
-##📌 Lo que aprenderás:
+## 📌 Lo que aprenderás:
 Limpieza de datos: Cómo detectar y eliminar datos faltantes, eliminar duplicados y convertir los tipos de datos para trabajar con ellos correctamente.
 Manipulación de datos: Uso de Pandas para filtrar, ordenar y seleccionar datos relevantes de la lista de canciones.
 Agrupación y agregación: Agrupar las canciones por diferentes criterios, como género, artista o año, y calcular estadísticas como el promedio de duración, la cantidad de canciones por artista, entre otros.
 Visualización: Cómo visualizar datos clave, como la distribución de géneros o la popularidad de artistas, utilizando gráficos simples.
 
-##🔧 Tareas clave:
+## 🔧 Tareas clave:
 Agrupar y analizar la lista de música para identificar qué artistas tienen más canciones en la lista y cuál es la duración promedio de las canciones.
 Exploración de géneros musicales para observar cuáles son los géneros más comunes y populares dentro de la lista de reproducción.
 Limpieza de valores faltantes y conversión de columnas para facilitar el análisis.
 
-##🛠 Bibliotecas Utilizadas:
+## 🛠 Bibliotecas Utilizadas:
 Pandas: Para la manipulación y limpieza de los datos.
 NumPy: Para realizar cálculos estadísticos sencillos.
 
